@@ -1,6 +1,6 @@
 # Curso: Exploradores do Código - Programação em Python para Crianças
 
-Bem-vindo ao repositório **Exploradores do Código**, um curso lúdico e envolvente de programação em Python voltado para crianças de a partir de 8 anos! Este curso foi cuidadosamente planejado e estruturado por Daniel Reis com o apoio do ChatGPT para criar um aprendizado divertido, prático e acessível. 
+Bem-vindo ao repositório **Exploradores do Código**, um curso lúdico e envolvente de programação em Python voltado para crianças de a partir de 8 anos! Este curso foi cuidadosamente planejado e estruturado por Daniel Reis com o apoio do ChatGPT para criar um aprendizado divertido, prático e acessível. A ideia é que os pais ou responsáveis, utilizei as aulas acompanhando e guiando os pequenos na jornada.
 
 ## Sobre o Curso
 
